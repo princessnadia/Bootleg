@@ -78,6 +78,7 @@ Japanese: "この設定が禁止されました. オーバーライド中.",
 CFG_FORCED = {
 English: "Forcing config into var.",
 French: "La configuration a été copiée de force.",
+Japanese: "変数の設定を強制的に..."
 }
 
 RES_RET = {
