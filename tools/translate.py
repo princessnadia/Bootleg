@@ -2,6 +2,7 @@
 
 English = "English"
 French = "French"
+Japanese = "日本語",
 
 # Use the constants to define languages, that makes it easier to change later on
 
@@ -10,31 +11,42 @@ French = "French"
 ENGLISH = {
 English: "English",
 French: "Anglais",
+Japanese: "英語",
 }
 
 FRENCH = {
 English: "French",
 French: "Français",
+Japanese: "フランス語",
 }
+
+JAPANESE = {
+English: "Japanese",
+French: "Japonais",
+Japanese: "日本語",
 
 TRUE = {
 English: "True",
 French: "Vrai",
+Japanese: "入",
 }
 
 FALSE = {
 English: "False",
 French: "Faux",
+Japanese: "切",
 }
 
 YES = {
 English: "Yes",
 French: "Oui",
+Japanese: "はい",
 }
 
 NO = {
 English: "No",
 French: "Non",
+Japanese: "いいえ",
 }
 
 # The following lines are contained in 'bootleg.py'
@@ -42,21 +54,25 @@ French: "Non",
 UPDATE_AVAIL = {
 English: "A {0} update is available!",
 French: "Une mise à jour de {0} est disponible!",
+Japanese: "{0}がアップデートされました!",
 }
 
 BOOT_DESC = {
 English: "{0} Final Fantasy VII Mod Configurator {1}",
 French: "Configurateur {0} pour Final Fantasy VII {1}",
+Japanese: "{0}ファイナルファンタジーVIIための調整の体制ツール{1}",
 }
 
 LNCH_PAR = {
 English: "Launch parameters: {0}",
 French: "Paramètres de lancement : {0}",
+Japanese: "開始の設定: {0}",
 }
 
 CFG_DIS_OVR = {
 English: "Config was disallowed. Overriding.",
 French: "La configuration était désactivée. Réactivation.",
+Japanese: "この設定が禁止されました. オーバーライド中.",
 }
 
 CFG_FORCED = {
